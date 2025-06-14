@@ -1,6 +1,6 @@
 # ML Repo
 
-This repository contains a basic structure for an ML project.
+ML-GenAI-SmallPods: poetic machines in modular form — built to think, imagine, and scale.
 
 ## Directory Structure
 
