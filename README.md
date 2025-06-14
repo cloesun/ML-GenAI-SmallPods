@@ -9,4 +9,5 @@ This repository contains a basic structure for an ML project.
   - `rag/` - retrieval augmented generation modules
   - `app/` - application entry points
 - `test/` - unit tests
+- `notebooks/` - experimentation notebooks
 
